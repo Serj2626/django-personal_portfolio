@@ -22,3 +22,13 @@ body {
         font-size: 5rem;
     }
 }
+
+div div a img:hover {
+    transform: scale(1.05);
+    transition: transform .6s ease;
+
+}
+div img {
+border: white solid 1vh;
+border-radius: 200px;
+}
