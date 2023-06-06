@@ -6,3 +6,11 @@
 
 
 ![Мое портфолио](media/portfolio/images/portfolio.png)
+
+
+***Инструменты***
+>* Python
+>* Django
+>* HTML
+>* CSS
+>* Bootstrap
